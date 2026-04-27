@@ -34,10 +34,6 @@
 - **Specs over code** — adversarial multi-LLM consensus before a single line gets written
 - **Homebrew, but with Kalman filters** — because why not
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/machug)
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@mmhughmm-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mmhughmm)
