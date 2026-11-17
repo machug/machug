@@ -2,18 +2,19 @@
 
 📍 **Melbourne 🇦🇺** | 🔒 **Security · B2B AI** | 🤖 **Global AI Transformation Lead @ Logicalis**
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Bicep](https://img.shields.io/badge/-Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/-AI_Foundry-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-d97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/-Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
-> Building secure, AI-native platforms for enterprise managed services. SOC co-pilots, GenAI incident analysis, automation blueprints. Spending more time upstream on rock-solid specs than typing code.
+> Building secure, AI-native platforms for enterprise managed services. Specs first, then agents, then code.
 
 ## Current Projects
 
@@ -22,16 +23,15 @@
 - 🔍 **[fact-checker](https://github.com/machug/fact-checker)** — Multi-LLM fact-checking pipeline with MCP-aware source verification
 - 🧪 **[crucible](https://github.com/machug/crucible)** — Adversarial multi-LLM project review across progress, tech stack, code quality, CI/CD
 - 🎯 **[gtm-forge](https://github.com/machug/gtm-forge)** — Build, stress-test, and verify enterprise managed-services GTM strategies
-- 🍺 **[brewsignal](https://github.com/machug/brewsignal)** — Fermentation monitoring on Raspberry Pi for Tilt, iSpindel, and GravityMon hydrometers — with Kalman filtering and predictive ML analytics
-- 🐝 **[waggle](https://github.com/machug/waggle)** — Hobbyist beehive monitoring: ESP32 sensor mesh → Pi hub → SvelteKit dashboard, with YOLOv8 bee counts
-- 📄 **[pdf-converter](https://github.com/machug/pdf-converter)** — Azure Function (Puppeteer) for HTML → PDF, built for Sentinel Playbooks
-- 🌿 **[native-gardens](https://github.com/machug/native-gardens)** — React + Supabase garden designer with seasonal planning and plant compatibility checks
+- 🥧 **[pi-cli-skill](https://github.com/machug/pi-cli-skill)** — Claude Code skill: second-opinion code review and adversarial challenge via Pi CLI
+- 📚 **[ReadaBurra](https://readaburra.vercel.app)** — Free, offline-first levelled reading platform for early primary kids, with illustrated decodable books (source private)
+- 🍺 **[brewsignal](https://github.com/machug/brewsignal)** — Fermentation monitoring for Tilt, iSpindel, and GravityMon hydrometers, with Kalman filtering and predictive analytics
 
 ## What I'm Doing
 
-- **Leading global AI transformation @ Logicalis** — secure AI platforms, SOC co-pilots, Copilot Studio HR automation, Sentinel durable workspace automation
-- **Studying** — Applied AI & Data Science, MIT Professional Education
-- **Specs over code** — adversarial multi-LLM consensus before a single line gets written
+- **Leading global AI transformation @ Logicalis** — agent platforms, SOC automation, and AI governance for managed services
+- **Agent tooling** — multi-model review loops (Claude, Codex, Gemini), shared team memory, issue tracking with Beads
+- **Completed** — Applied AI & Data Science, MIT Professional Education
 - **Homebrew, but with Kalman filters** — because why not
 
 ## Connect
