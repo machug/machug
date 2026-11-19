@@ -18,12 +18,8 @@
 
 ## Current Projects
 
-- 🏗️ **[marketplace](https://github.com/machug/marketplace)** — AI-powered writing and research tools for Claude Code
 - 🥊 **[spec-debate](https://github.com/machug/spec-debate)** — Multi-LLM adversarial spec debate until models reach consensus
 - 🔍 **[fact-checker](https://github.com/machug/fact-checker)** — Multi-LLM fact-checking pipeline with MCP-aware source verification
-- 🧪 **[crucible](https://github.com/machug/crucible)** — Adversarial multi-LLM project review across progress, tech stack, code quality, CI/CD
-- 🎯 **[gtm-forge](https://github.com/machug/gtm-forge)** — Build, stress-test, and verify enterprise managed-services GTM strategies
-- 🥧 **[pi-cli-skill](https://github.com/machug/pi-cli-skill)** — Claude Code skill: second-opinion code review and adversarial challenge via Pi CLI
 - 📚 **[ReadaBurra](https://readaburra.vercel.app)** — Free, offline-first levelled reading platform for early primary kids, with illustrated decodable books (source private)
 - 🍺 **[brewsignal](https://github.com/machug/brewsignal)** — Fermentation monitoring for Tilt, iSpindel, and GravityMon hydrometers, with Kalman filtering and predictive analytics
 
